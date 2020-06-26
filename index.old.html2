@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+<title>Resonanta Studio</title>
+<style>
+
+body  {
+  background-image: url("bg.jpg");
+  background-color: #cccccc;
+}
+
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 50vh;
+ }
+ 
+ 
+ 
+ p {
+  font-family: 'Raleway', sans-serif;
+  color:#ffffff;
+  font-size: 44px;
+}
+a {
+  font-family: 'Raleway', sans-serif;
+  color:#dddddd;
+  font-size: 22px;
+  text-align: center;
+  text-decoration: none;
+}
+
+</style>
+</head>
+<body>
+
+<div style=" position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;">
+
+<img src="logo.png" width="420" alt="Resonanta logo">
+
+</div>
+
+
+<div class="center-screen">
+  
+<p> Audio Production. Mixing. Mastering.
+
+</div>
+  
+
+<div style="position:relative;
+    width:300px;
+    height:140px;
+        bottom:-80px;
+    right:25%;
+    left:50%;
+    margin-left:-150px;">
+        
+              <script type="text/javascript">
+              <!-- Begin
+              user = "info";
+              domain = "resonantastudio.com";
+              document.write('<a href=\"mailto:' + user + '@' + domain + '\">' + 
+              user + '@' + domain + '</a>');
+              // End -->
+              </script>
+              <noscript>put image of email address here</noscript>
+        
+</div>
+<!-- Default Statcounter code for Resonanta
+http://resonantastudio.com -->
+<script type="text/javascript">
+var sc_project=12228284; 
+var sc_invisible=1; 
+var sc_security="c0a2785f"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12228284/0/c0a2785f/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+</body>
+</html>
